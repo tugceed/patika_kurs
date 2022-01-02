@@ -12,7 +12,7 @@ namespace patika_kurs
         {
             Console.WriteLine("İsminizi giriniz:");
             string isim = Console.ReadLine();
-            Console.WriteLine("Merhabaa "+isim);
+            Console.WriteLine("Merhaba "+isim);
             Console.ReadLine();
             int x = 152;
             double y = 15.2;
