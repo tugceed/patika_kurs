@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "patika_kurs", "patika_kurs\patika_kurs.csproj", "{225E5D50-55B9-41D7-BAF7-E5CBF4AA9222}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "degiskenler", "patika_kurs\degiskenler.csproj", "{225E5D50-55B9-41D7-BAF7-E5CBF4AA9222}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
