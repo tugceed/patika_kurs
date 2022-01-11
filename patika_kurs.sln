@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "degiskenler", "patika_kurs\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operatorler", "operatorler\operatorler.csproj", "{BB90A3C5-BBA0-48AA-BA24-9CA27D82BE2B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tip_donusumleri", "tip_donusumleri\tip_donusumleri.csproj", "{20038FCB-32D9-4907-952E-02354BD06DB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BB90A3C5-BBA0-48AA-BA24-9CA27D82BE2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB90A3C5-BBA0-48AA-BA24-9CA27D82BE2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB90A3C5-BBA0-48AA-BA24-9CA27D82BE2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20038FCB-32D9-4907-952E-02354BD06DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20038FCB-32D9-4907-952E-02354BD06DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20038FCB-32D9-4907-952E-02354BD06DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20038FCB-32D9-4907-952E-02354BD06DB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
